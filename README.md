@@ -3,7 +3,7 @@ This repository contains various baseline models for comparison on the *Fer2013*
 
 ## Requirements
 
-- [Python 3.7][https://www.python.org/downloads/release/python-370/]
+- [Python 3.7](https://www.python.org/downloads/release/python-370/)
 - [NumPy](http://www.numpy.org/)
 - [scikit-learn](http://scikit-learn.org/stable/index.html)
 - [PyTorch](http://pytorch.org/)
